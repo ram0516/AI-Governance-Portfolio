@@ -70,12 +70,12 @@ Approximately **94% of applications are processed automatically**. Only 6% reach
 
 | Artifact | Purpose | Link |
 | :--- | :--- | :--- |
-| **AI System Profile & Intake Record** | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [View Artifact](./02-use-case/README.md) |
-| **AI Risk Register & Mitigation Summary** | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](./05-risk-register/README.md) |
-| **Human Oversight & Appeal Procedure** | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](./10-incident-management/README.md) |
-| **Third-Party Vendor & Model Review** | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](./08-vendor-management/README.md) |
-| **Production Readiness Decision Memo** | Provides final executive recommendation and conditional approval terms. | [View Artifact](./14-portfolio-report/README.md) |
-| **Final VerifyWise Portfolio Report** | Consolidated portfolio report generated from VerifyWise. | [View Report](./14-portfolio-report/AI%20Governance%20Portfoilio%20Report_Use_case-RR.pdf) |
+| **AI System Profile & Intake Record** | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [View Artifact](./02-use-case/1.AI_Governance_Intake_Record.docx) |
+| **AI Risk Register & Mitigation Summary** | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](./05-risk-register/3.AI_Risk_Register_Mitigation_Summary.docx) |
+| **Human Oversight & Appeal Procedure** | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](./10-incident-management/4.Human_Oversight_Appeal_Procedure.docx) |
+| **Third-Party Vendor & Model Review** | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](./08-vendor-management/2.Vendor_Model_Governance_Review.docx) |
+| **Production Readiness Decision Memo** | Provides final executive recommendation and conditional approval terms. | [View Artifact](./14-portfolio-report/5.AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System-Decision-Memo.docx) |
+| **Underwriting Dataset Record** | Baseline dataset used for evaluating fairness, bias, and technical model telemetry. | [View Dataset](./04-dataset/Small_business_loan_underwriting_dataset.csv) |
 
 
 ---
