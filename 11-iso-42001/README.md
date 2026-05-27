@@ -35,3 +35,6 @@ Assessment of Meridian Financial Services against ISO/IEC 42001 clauses and anne
 - Monitoring and continual improvement procedures require formalization before production deployment
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![ISO/IEC 42001 Standard Control Mapping](../screenshots/11-iso-42001.png)

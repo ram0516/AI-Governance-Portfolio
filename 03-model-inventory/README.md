@@ -20,3 +20,6 @@
 Meridian does not have full visibility into training data, model architecture, feature weighting, or all validation results. Explainability is limited to vendor-provided reason codes.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Algorithmic Model Inventory](../screenshots/03-model-inventory.png)

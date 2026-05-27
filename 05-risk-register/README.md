@@ -19,3 +19,6 @@
 Risk 6 — lack of meaningful human oversight — carries the highest inherent rating (Almost Certain / Catastrophic) because the 94% automation rate leaves minimal space for human review of most lending decisions.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Algorithmic Risk Register](../screenshots/05-risk-register.png)

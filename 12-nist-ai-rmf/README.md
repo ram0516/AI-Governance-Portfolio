@@ -28,3 +28,6 @@ Assessment of the Meridian Automated Loan Underwriting System against NIST AI RM
 **MANAGE** — Mitigations defined per risk; several remain open pending vendor documentation, fairness testing, and human oversight procedure formalization.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![NIST AI Risk Management Framework](../screenshots/12-nist-ai-rmf.png)

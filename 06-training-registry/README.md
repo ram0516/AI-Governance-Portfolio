@@ -19,3 +19,6 @@
 AI Governance Lead, Compliance Reviewer, Model Risk Reviewer, Credit Risk Owner, Vendor Risk Owner, Security/Privacy Reviewer, Underwriting Manager, 3 Human Underwriters, Executive Approver, and Legal/Risk Advisor.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Model Training Registry](../screenshots/06-training-registry.png)

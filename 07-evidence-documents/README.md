@@ -14,3 +14,6 @@
 | 5 | AI Governance Production Readiness Decision Memo |
 
 *Evidence documents and VerifyWise screenshots to be added.*
+
+### System Interface Capture
+![Cryptographic Evidence Attestation](../screenshots/07-evidence-documents.png)

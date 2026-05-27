@@ -13,3 +13,6 @@
 | **Review Result** | Acceptable for limited production use only after Meridian receives and reviews model docs, fairness testing evidence, validation results, reason codes, security docs, and data terms |
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Third-Party Vendor Management](../screenshots/08-vendor-management.png)

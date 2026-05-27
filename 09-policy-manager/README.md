@@ -14,3 +14,6 @@
 These policies establish the minimum governance, risk management, and third-party oversight structure for the high-risk AI portfolio.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Internal Policy Controls](../screenshots/09-policy-manager.png)

@@ -20,3 +20,6 @@ Registered the Meridian Automated Loan Underwriting System as a high-risk AI use
 The system qualifies as high-risk because it affects access to credit and may create financial, legal, fairness, explainability, and consumer harm risks.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![AI Use Case Profiling](../screenshots/02-use-case.png)

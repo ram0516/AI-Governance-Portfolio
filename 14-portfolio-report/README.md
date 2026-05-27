@@ -25,3 +25,9 @@ The report consolidates all governance work completed across Steps 1–13:
 - EU AI Act requirements, CE Marking, and FRIA
 
 *VerifyWise generated PDF report to be added upon completion.*
+
+### System Interface Capture
+![VerifyWise Management Dashboard](../screenshots/14-VerifyWise-Dashboard.png)
+
+### Executive Portfolio Report
+👉 [Download Full Governance PDF Report](./AI%20Governance%20Portfoilio%20Report_Use_case-RR.pdf)

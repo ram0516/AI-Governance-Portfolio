@@ -19,3 +19,6 @@
 Potential proxy bias through geography, industry classification, business age, credit history, thin credit files, cash-flow volatility, and historical repayment patterns.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Dataset Provenance Registry](../screenshots/04-dataset.png)

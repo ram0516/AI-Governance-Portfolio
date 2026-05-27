@@ -27,3 +27,6 @@ Without validated reason codes, Meridian cannot fulfill its obligation to provid
 Pending vendor response. CrediSure AI has been asked to provide full documentation of reason code generation logic and sample validation evidence before production approval is granted.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Incident Response Runbook](../screenshots/10-incident-management.png)

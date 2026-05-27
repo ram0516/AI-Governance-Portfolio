@@ -16,3 +16,6 @@ Created an organizational-level AI governance framework in VerifyWise to track t
 | **Goal** | Evaluate whether Meridian has the governance structure, risk management process, controls, evidence, and oversight needed to support responsible deployment |
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![Governance Framework Assessment](../screenshots/01-framework.png)

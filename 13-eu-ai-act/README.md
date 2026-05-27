@@ -49,3 +49,6 @@ As a deployer of a high-risk AI system in the credit assessment domain, Meridian
 **FRIA Status:** In Progress — pending vendor documentation and internal procedure formalization.
 
 *VerifyWise screenshot to be added.*
+
+### System Interface Capture
+![EU AI Act Fundamental Rights Assessment](../screenshots/13-eu-ai-act-fria.png)
