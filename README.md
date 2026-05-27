@@ -15,7 +15,7 @@
 
 > *VerifyWise governance dashboard showing the Meridian Automated Loan Underwriting System assessment — use case registration, risk register, model inventory, vendor record, evidence pack, and policy library.*
 
-![VerifyWise Dashboard](./screenshots/14-VerifyWise Dashboard.png)
+![VerifyWise Dashboard](./screenshots/14-VerifyWise-Dashboard.png)
 
 ---
 
