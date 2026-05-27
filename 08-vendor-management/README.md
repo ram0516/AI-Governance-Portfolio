@@ -28,4 +28,4 @@ To transition this vendor from conditional to full production approval, the foll
 ---
 
 ### System Interface Capture
-![Third-Party Vendor Review](../screenshots/08-vendor-management.png)
+![Third-Party Vendor Review](/screenshots/08-vendor-management.png)

@@ -28,4 +28,4 @@ The underwriting system is explicitly restricted from making a final automated d
 ---
 
 ### System Interface Capture
-![Human Oversight Controls](../screenshots/10-incident-management.png)
+![Human Oversight Controls](/screenshots/10-incident-management.png)

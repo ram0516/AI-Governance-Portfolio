@@ -42,4 +42,4 @@ The system qualifies as high-risk because it affects access to credit and may cr
 ---
 
 ### System Interface Capture
-![AI Use Case Profiling](../screenshots/02-use-case.png)
+![AI Use Case Profiling](/screenshots/02-use-case.png)

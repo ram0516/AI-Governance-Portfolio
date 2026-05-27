@@ -31,4 +31,4 @@ The system may only launch under a limited, conditionally monitored pilot once t
 ---
 
 ### System Interface Capture
-![Production Readiness Report](../screenshots/14-portfolio-report.png)
+![Production Readiness Report](/screenshots/14-portfolio-report.png)

@@ -31,7 +31,7 @@ This registry tracks the baseline dataset used for evaluating fairness, proxy bi
 ---
 
 ### System Interface Capture
-![Dataset Provenance Registry](../screenshots/04-dataset.png)
+![Dataset Provenance Registry](/screenshots/04-dataset.png)
 
 ---
 
