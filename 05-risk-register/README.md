@@ -1,24 +1,35 @@
-# 05 — Risk Register
+# #05 – Risk Register & Mitigation Matrix
 
-**System:** Meridian Automated Loan Underwriting System  
-**Number of Risks:** 6
+**Use Case:** Meridian Automated Loan Underwriting System
+**Frameworks:** NIST AI RMF, IBM AI Risk Database, MIT AI Risk Repository
 
-## Risk Summary
+## Summary
 
-| # | Risk | Source | Inherent Level | Residual Level |
-|---|---|---|---|---|
-| 1 | Discriminatory lending outcomes | IBM AI Risk DB | Catastrophic / Possible | Medium-High |
-| 2 | Proxy bias through credit and business variables | IBM AI Risk DB | Major / Likely | Medium |
-| 3 | Weak explainability and incomplete reason codes | IBM AI Risk DB | Major / Possible | Medium |
-| 4 | Accountability gaps in third-party AI deployment | MIT AI Risk Repo | Major / Possible | Low |
-| 5 | Inaccurate automated denials | Custom | Major / Possible | Medium |
-| 6 | Lack of meaningful human oversight | Custom | Catastrophic / Almost Certain | High |
+This artifact contains the comprehensive risk register and priority mitigation matrix for the automated loan underwriting system, tracking inherent risk, control strategies, and residual risk tiers.
 
-## Critical Risk: Risk 6
+---
 
-Risk 6 — lack of meaningful human oversight — carries the highest inherent rating (Almost Certain / Catastrophic) because the 94% automation rate leaves minimal space for human review of most lending decisions.
+## Priority Risk Matrix
 
-*VerifyWise screenshot to be added.*
+The system was assessed against industry risk databases. Six priority risks were identified, with **Lack of Meaningful Human Oversight** presenting the highest exposure due to the system's 94% automated decision rate.
+
+| Risk ID | Risk Description | Inherent Risk | Mitigation Strategy | Residual Risk |
+| :--- | :--- | :--- | :--- | :--- |
+| **R-01** | Discriminatory lending outcomes / disparate impact | Catastrophic | Implement pre-production demographic parity testing and continuous bias audits. | **Medium-High** |
+| **R-02** | Proxy bias through geographic & business variables | Major | Standardize feature drop rules for zip codes and correlated variables. | **Medium** |
+| **R-03** | Weak explainability / non-compliant denial codes | Major | Map vendor output codes to compliant adverse action reason codes. | **Medium** |
+| **R-04** | Third-party vendor accountability gaps | Major | Enforce strict SLAs and regular vendor model validation reviews. | **Low** |
+| **R-05** | Inaccurate automated denials (false negatives) | Major | Create a statistical safety buffer zone for marginal credit scores. | **Medium** |
+| **R-06** | Lack of meaningful human oversight (automation bias) | Catastrophic | Define mandatory human review triggers for high-impact segments. | **High** |
+
+---
+
+## Key Recommendations & Controls
+
+*   **Establish a Safety Buffer:** Applications falling within a ±5% margin of the automated denial threshold must be automatically rerouted away from the AI and into the manual underwriting queue.
+*   **Continuous Monitoring:** Implement automated telemetry alerts to flag sudden shifts in approval/denial ratios, which could indicate underlying data drift or model instability.
+
+---
 
 ### System Interface Capture
-![Algorithmic Risk Register](../screenshots/05-risk-register.png)
+![AI Risk Register](../screenshots/05-risk-register.png)

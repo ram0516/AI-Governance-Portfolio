@@ -76,7 +76,7 @@ Approximately **94% of applications are processed automatically**. Only 6% reach
 | **Third-Party Vendor & Model Review** | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](./08-vendor-management/2.Vendor_Model_Governance_Review.docx) |
 | **Production Readiness Decision Memo** | Provides final executive recommendation and conditional approval terms. | [View Artifact](./14-portfolio-report/5.AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System-Decision-Memo.docx) |
 | **Underwriting Dataset Record** | Baseline dataset used for evaluating fairness, bias, and technical model telemetry. | [View Dataset](./04-dataset/Small_business_loan_underwriting_dataset.csv) |
-
+| **Underwriting Dataset Record** | Baseline dataset used for evaluating fairness, bias, and technical model telemetry. | [View Dataset](./04-dataset/README.md) |
 
 ---
 
