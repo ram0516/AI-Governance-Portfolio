@@ -4,7 +4,7 @@ VerifyWise platform screenshots captured during the governance assessment of the
 
 | Step | Screenshot | Description |
 |---|---|---|
-| Dashboard | `14-VerifyWise-Dashboard.png` | VerifyWise full governance dashboard overview |
+| Dashboard | `00-verifywise-dashboard.png` | VerifyWise full governance dashboard overview |
 | 01 | `01-framework.png` | Organizational governance framework |
 | 02 | `02-use-case.png` | Use case registration — EU AI Act high-risk classification |
 | 03 | `03-model-inventory.png` | Model inventory — CrediSure Credit Decision Engine v2.3 |
@@ -18,3 +18,4 @@ VerifyWise platform screenshots captured during the governance assessment of the
 | 11 | `11-iso-42001.png` | ISO/IEC 42001 clauses and annexes assessment |
 | 12 | `12-nist-ai-rmf.png` | NIST AI RMF controls assessment |
 | 13 | `13-eu-ai-act.png` | EU AI Act requirements, CE Marking, and FRIA |
+| 14 | `14-portfolio-report-cover.png` | EU AI Act requirements, CE Marking, and FRIA |
