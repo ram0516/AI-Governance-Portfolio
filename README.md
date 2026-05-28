@@ -75,7 +75,7 @@ Approximately **94% of applications are processed automatically**. Only 6% reach
 | **AI Risk Register & Mitigation Summary** | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](./05-risk-register/3.AI_Risk_Register_Mitigation_Summary.md) |
 | **Human Oversight & Appeal Procedure** | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](./10-incident-management/4.Human_Oversight_Appeal_Procedure.md) |
 | **Third-Party Vendor & Model Review** | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](./08-vendor-management/2.Vendor_Model_Governance_Review.md) |
-| **Production Readiness Decision Memo** | Provides final executive recommendation and conditional approval terms. | [View Artifact](./14-portfolio-report/AI-Governance-Portfolio-Report_Use_case-RR.pdf) |
+| **Production Readiness Decision Memo** | Provides final executive recommendation and conditional approval terms. | [View Artifact](./14-portfolio-report/5.AI-Governance-Portfolio-Decision-Memo.md) |
 | **Underwriting Dataset Record** | Baseline dataset used for evaluating fairness, bias, and technical model telemetry. | [View Dataset](./04-dataset/README.md) |
 
 ---
