@@ -343,6 +343,12 @@ Conditional production approval may be appropriate once these controls are in pl
 
 ---
 
+## Acknowledgments
+This repository structure was adapted from the [AI Governance Portfolio](https://github.com/Joieux/AI-Governance-Portfolio) project layout by Joyce Johnson. 
+
+*Note: The original source link is currently unavailable.*
+
+---
 ## Skills Demonstrated
 
 `AI Risk Assessment` · `Model Risk Management` · `Fair Lending Compliance` · `Third-Party AI Vendor Risk` · `Governance Framework Design` · `EU AI Act` · `NIST AI RMF` · `ISO/IEC 42001` · `VerifyWise` · `Responsible AI` · `AI Policy` · `Bias and Fairness Controls` · `Explainability Assessment` · `Deployment Readiness Review`
