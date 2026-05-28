@@ -33,4 +33,4 @@ The system may only launch under a limited, conditionally monitored pilot once t
 ### System Interface Capture
 ![Production Readiness Report Cover](../screenshots/14-portfolio-report-cover.png)
 
-📄 [Download the full Production Readiness Report PDF](https://github.com/ram0516/AI-Governance-Portfolio/blob/main/14-portfolio-report/AI-Governance-Portfolio-Report_Use_case-RR.pdf?raw=true)
+📄 [Download the full Production Readiness Report PDF](https://github.com/ram0516/AI-Governance-Portfolio/blob/main/14-portfolio-report/AI-Governance-Portfolio-Report_Use_case-RR.pdf
