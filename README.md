@@ -305,7 +305,7 @@ Assessed EU AI Act requirements including CE Marking readiness and Fundamental R
 
 Generated VerifyWise portfolio report consolidating all governance work across Steps 1–13.
 
-📁 [Portfolio report →](./14-portfolio-report/README.md)
+📁 [Portfolio report →](./14-portfolio-report/AI-Governance-Portfolio-Report_Use_case-RR.pdf)
 
 ---
 
