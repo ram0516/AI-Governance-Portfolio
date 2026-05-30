@@ -1,4 +1,4 @@
-# Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System
+# AI Governance Portfolio Project: Automated Loan Underwriting System
 
 **Practitioner:** Ramamurthy R  
 **GitHub:** [github.com/ram0516](https://github.com/ram0516)  
