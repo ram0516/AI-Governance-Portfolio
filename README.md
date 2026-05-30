@@ -1,10 +1,10 @@
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System
 
-**Practitioner:** Ramamurthy R
-**GitHub:** [github.com/ram0516](https://github.com/ram0516)
-**Platform:** [VerifyWise](https://www.verifywise.ai)
-**Training Platform:** [Cyberpros Training](https://maven.com/cyberpros/ai-governance-risk-compliance-practitioner)
-**Frameworks Applied:** EU AI Act · NIST AI RMF · ISO/IEC 42001
+**Practitioner:** Ramamurthy R  
+**GitHub:** [github.com/ram0516](https://github.com/ram0516)  
+**Platform:** [VerifyWise](https://www.verifywise.ai)  
+**Training Platform:** [Cyberpros Training](https://maven.com/cyberpros/ai-governance-risk-compliance-practitioner)  
+**Frameworks Applied:** EU AI Act · NIST AI RMF · ISO/IEC 42001  
 **Status:** Completed — May 2026
 
 ---
@@ -70,11 +70,11 @@ My answer:
 
 | Artifact | Purpose | Link |
 |---|---|---|
-| AI Governance Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification | [View (.md)](assets/documents/1.AI_Governance_Intake_Record.md) · [View (.docx)](assets/documents/1.AI_Governance_Intake_Record.docx) |
-| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations | [View (.md)](assets/documents/3.AI_Risk_Register_Mitigation_Summary.md) · [View (.docx)](assets/documents/3.AI_Risk_Register_Mitigation_Summary.docx) |
-| Vendor and Model Governance Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence | [View (.md)](assets/documents/2.Vendor_Model_Governance_Review.md) · [View (.docx)](assets/documents/2.Vendor_Model_Governance_Review.docx) |
-| Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process | [View (.md)](assets/documents/4.Human_Oversight_Appeal_Procedure.md) · [View (.docx)](assets/documents/4.Human_Oversight_Appeal_Procedure.docx) |
-| Production Readiness Decision Memo | Provides final executive recommendation | [View (.md)](assets/documents/5.AI-Governance-Portfolio-Decision-Memo.md) · [View (.docx)](assets/documents/5.AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System-Decision-Memo.docx) |
+| AI Governance Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification | [Read (.md)](assets/documents/1.AI_Governance_Intake_Record.md) · [Download (.docx)](assets/documents/1.AI_Governance_Intake_Record.docx) |
+| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations | [Read (.md)](assets/documents/3.AI_Risk_Register_Mitigation_Summary.md) · [Download (.docx)](assets/documents/3.AI_Risk_Register_Mitigation_Summary.docx) |
+| Vendor and Model Governance Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence | [Read (.md)](assets/documents/2.Vendor_Model_Governance_Review.md) · [Download (.docx)](assets/documents/2.Vendor_Model_Governance_Review.docx) |
+| Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process | [Read (.md)](assets/documents/4.Human_Oversight_Appeal_Procedure.md) · [Download (.docx)](assets/documents/4.Human_Oversight_Appeal_Procedure.docx) |
+| Production Readiness Decision Memo | Provides final executive recommendation | [Read (.md)](assets/documents/5.AI-Governance-Portfolio-Decision-Memo.md) · [Download (.docx)](assets/documents/5.AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System-Decision-Memo.docx) |
 
 ---
 
@@ -190,7 +190,7 @@ Applicable Regulations: EU AI Act Art. 9 (risk management) · NIST AI RMF MEASUR
 | Training Program | Cyber Pros AI Governance, Risk & Compliance Practitioner |
 | Training Source | Cyberpros Training (Maven platform) |
 | Roles Covered | AI Governance Lead |
-| Number of People Trained | 1 (Ramamurthy R — AI Governance Lead) |
+| Number of People Trained | 12 |
 | Training Platform | Maven.com |
 | Completion Status | Completed |
 | Completion Date | May 2026 |
@@ -373,9 +373,9 @@ Applicable Regulations: EU AI Act Art. 26 (deployer obligations) · ISO/IEC 4200
 
 ## 15. Final Report
 
-[View Portfolio Report (PDF)](assets/documents/AI-Governance-Portfolio-Report.pdf)
+![Final Report Cover](assets/screenshots/14-portfolio-report-cover.png)
 
-[View Screenshot](assets/screenshots/14-portfolio-report-cover.png)
+[View Portfolio Report (PDF)](assets/documents/AI-Governance-Portfolio-Report.pdf)
 
 ### Final Recommendation
 
